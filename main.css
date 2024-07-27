@@ -1,0 +1,19 @@
+.card{
+    background-color: green;
+    width:300px;
+    height: 250px;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+}
+.wrapper{display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+}
+.Name{
+    font-size: 30px;
+    color: white;
+    margin-top: 20px;
+    font-weight: bold;  
+}
